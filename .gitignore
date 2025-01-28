@@ -1,0 +1,5 @@
+*.env
+
+# Ignore virtual environments
+RAG_Model_Eval/Streamlit_app/assignment_env/
+
